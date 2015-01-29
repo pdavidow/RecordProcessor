@@ -1,4 +1,4 @@
-PROBLEM:
+PROBLEM
 Write a Ruby program to first assemble a single set of records by parsing data from 3 different file formats, and then display these records sorted in 3 different ways.
 
 INPUT DATA
